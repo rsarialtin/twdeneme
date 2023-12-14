@@ -12,9 +12,13 @@ public class deneme {
 
 
 
+ System.out.println("Ramazan deneme");
 
 
 
         System.out.println("SAMET YAPTI...");
+
+       
+
     }
 }
